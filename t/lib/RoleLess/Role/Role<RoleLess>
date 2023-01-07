@@ -1,0 +1,6 @@
+  /home/simone/perldev/Role-Tiny-MonkeyPatch/t/lib/RoleLess/Imager/Role:
+  total used in directory 16 available 187.1 GiB
+  drwxrwxr-x 2 simone simone 4096 Jan  2 11:23 .
+  drwxrwxr-x 4 simone simone 4096 Jan  2 11:18 ..
+  -rw-r--r-- 1 simone simone  293 Jan  2 11:23 Something.pm
+  -rw-r--r-- 1 simone simone  281 Jan  2 11:03 Something.pm~
